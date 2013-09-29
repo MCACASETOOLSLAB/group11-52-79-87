@@ -1,3 +1,0 @@
-/////////////////updated ticket counter booking problem//////////////
-        After updation in this program it will allocate  all resources sequentially and       automatically , and release resources from starting of the first counter.
-  
